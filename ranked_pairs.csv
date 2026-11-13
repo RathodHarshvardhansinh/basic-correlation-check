@@ -1,0 +1,7 @@
+var_1,var_2,pearson_r
+petal_length,petal_width,0.963
+sepal_length,petal_length,0.872
+sepal_length,petal_width,0.818
+sepal_width,petal_length,-0.428
+sepal_width,petal_width,-0.366
+sepal_length,sepal_width,-0.118
